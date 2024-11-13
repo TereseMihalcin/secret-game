@@ -1,0 +1,10 @@
+name=secret-game
+author=Terese Mihalcin, Elizabeth Matthews
+description=Not sure yet
+bundleID=
+version=1.0
+buildNumber=0
+imagePath=/images
+launchSoundPath=/sounds
+contentWarning=This game contains mild untold secrets
+contentWarning2=This game contains flashing secrets too juicy for the human ear
